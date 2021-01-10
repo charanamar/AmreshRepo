@@ -1,0 +1,5 @@
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\DAL\bin\Debug\DAL.dll
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\DAL\bin\Debug\DAL.pdb
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\DAL\obj\Debug\DAL.dll
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\DAL\obj\Debug\DAL.pdb

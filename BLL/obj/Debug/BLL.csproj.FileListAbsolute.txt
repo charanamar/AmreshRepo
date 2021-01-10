@@ -1,0 +1,5 @@
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\BLL\bin\Debug\BLL.dll
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\BLL\bin\Debug\BLL.pdb
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\BLL\obj\Debug\BLL.dll
+C:\Users\Amresh\Documents\Visual Studio 2010\Projects\WebApplication2-ACCEN\BLL\obj\Debug\BLL.pdb

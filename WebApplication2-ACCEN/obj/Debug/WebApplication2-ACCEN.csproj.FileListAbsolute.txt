@@ -1,0 +1,6 @@
+C:\Users\Amresh\documents\visual studio 2010\Projects\WebApplication2-ACCEN\WebApplication2-ACCEN\bin\WebApplication2-ACCEN.dll
+C:\Users\Amresh\documents\visual studio 2010\Projects\WebApplication2-ACCEN\WebApplication2-ACCEN\bin\WebApplication2-ACCEN.pdb
+C:\Users\Amresh\documents\visual studio 2010\Projects\WebApplication2-ACCEN\WebApplication2-ACCEN\obj\Debug\WebApplication2-ACCEN.dll
+C:\Users\Amresh\documents\visual studio 2010\Projects\WebApplication2-ACCEN\WebApplication2-ACCEN\obj\Debug\WebApplication2-ACCEN.pdb
+C:\Users\Amresh\documents\visual studio 2010\Projects\WebApplication2-ACCEN\WebApplication2-ACCEN\obj\Debug\WebApplication2_ACCEN.Properties.Resources.resources
+C:\Users\Amresh\documents\visual studio 2010\Projects\WebApplication2-ACCEN\WebApplication2-ACCEN\obj\Debug\WebApplication2-ACCEN.csproj.GenerateResource.Cache
